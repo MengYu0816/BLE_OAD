@@ -1,0 +1,26 @@
+[
+  {
+    "fileName" : "basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang-v1.0.0.bin",
+    "version" : "7.10.00.23_1.0.0+0",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang-v2.0.0.bin",
+    "version" : "7.10.00.23_2.0.0+0",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "BLE_CC2340R5_V1.0.0.bin",
+    "version" : "7.20.00.29_1.0.0+0",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "BLE_CC2340R5_V2.0.0.bin",
+    "version" : "7.20.00.29_2.0.0+0",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  }
+]
