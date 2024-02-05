@@ -1,0 +1,8 @@
+[
+  {
+    "fileName" : "LPE_cc2340r5_oad_onchip_v2.bin",
+    "version" : "7.10.00.23_1.0.0+0",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  }
+]
